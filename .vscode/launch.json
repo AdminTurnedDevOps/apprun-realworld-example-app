@@ -19,7 +19,7 @@
       "type": "chrome",
       "request": "launch",
       "name": "Launch App",
-      "url": "http://localhost:8080",
+      "url": "http://0.0.0.0:3000",
       "webRoot": "${workspaceRoot}",
       "disableNetworkCache": true,
       "sourceMapPathOverrides": {
